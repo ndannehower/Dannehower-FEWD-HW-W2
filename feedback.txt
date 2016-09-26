@@ -1,0 +1,18 @@
+Use HTML5 structural elements (nav, header, footer)
+ - Good use of header element
+Use a CSS Reset file in addition to your style.css file to style the page
+ - Good!
+Use IDs and Classes to to select and style elements on the page
+ - Good!
+Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes
+ - Good!
+Indent nested elements to increase your code's readability
+ - Good!
+Use CSS display and float to get the layout correct
+ - Good!
+
+Additional Comments:
+
+- The part that you have looks good. The spacing and sizing matches the design. Good use of descriptive class and ID names.
+
+- There's quite a bit more to this homework than just the header that you implemented. Under the image in the homework summary is a link to the full page design: https://github.com/ga-students/FEWD-DC-27/blob/master/Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg. You may want to give the rest of the page a shot if you want more practice creating layouts using HTML & CSS.
